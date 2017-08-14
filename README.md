@@ -65,7 +65,7 @@ yCart_see_Total|money
 		<td>{{ item.value|money }}</td>
 		<td><input type="number" v-model="item.count" @change="yCart_do_Update()"></td>
 		<td>{{ (item.value * item.count)|money }}</td>
-		<td><button @click="yCart_do_Remove(id)"></button></td>
+		<td><button @click="yCart_do_Remove(id)">X</button></td>
 	</tr>
 	<tr>
 		<td colspan="4">Subtotal: <strong>{{ yCart_see_Total|money }}</strong></td>
