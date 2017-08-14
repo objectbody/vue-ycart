@@ -17,7 +17,7 @@
 	"author": {
 		"name" : "Francisco Santos",
 		"email" : "franciscoverpo@gmail.com",
-		"url" : "franciscoverpo.github.io",
+		"url" : "franciscoverpo.github.io"
 	},
 	"main": "src/main.js"
 }
