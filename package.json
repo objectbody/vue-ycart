@@ -1,0 +1,21 @@
+{
+	"name": "vue-ycart",
+	"version": "0.0.1",
+	"dependencies": {
+		"js-cookie": "^2.1.4",
+		"lodash": "^4.17.4",
+		"vue": "^2.4.2"
+	},
+	"devDependencies": {
+		"webpack": "^3.5.4"
+	},
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/objectbody/vue-ycart.git"
+  	},
+	"license": "MIT",
+	"name" : "Francisco Santos",
+	"email" : "franciscoverpo@gmail.com",
+	"url" : "franciscoverpo.github.io",
+	"main": "src/main.js"
+}
