@@ -14,8 +14,10 @@
 		"url" : "https://github.com/objectbody/vue-ycart.git"
   	},
 	"license": "MIT",
-	"name" : "Francisco Santos",
-	"email" : "franciscoverpo@gmail.com",
-	"url" : "franciscoverpo.github.io",
+	"author": {
+		"name" : "Francisco Santos",
+		"email" : "franciscoverpo@gmail.com",
+		"url" : "franciscoverpo.github.io",
+	},
 	"main": "src/main.js"
 }
