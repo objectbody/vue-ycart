@@ -1,5 +1,10 @@
 # vuejs-ycart
 
+## Install
+``` javascript
+npm install vue-ycart // or yarn add ...
+```
+
 ## Usage
 ``` javascript
 
